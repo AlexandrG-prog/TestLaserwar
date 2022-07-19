@@ -1,0 +1,88 @@
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar.csprojAssemblyReference.cache
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\MainWindow.g.cs
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\App.g.cs
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar_MarkupCompile.cache
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar_MarkupCompile.lref
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\bin\Debug\TestLaserwar.exe.config
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\bin\Debug\TestLaserwar.exe
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\bin\Debug\TestLaserwar.pdb
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\bin\Debug\BLL.dll
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\bin\Debug\EntityFramework.dll
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\bin\Debug\DAL.dll
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\bin\Debug\BLL.pdb
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\bin\Debug\EntityFramework.xml
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\bin\Debug\DAL.pdb
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\bin\Debug\DAL.dll.config
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\MainWindow.baml
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar.g.resources
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar.Properties.Resources.resources
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar.csproj.GenerateResource.cache
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar.csproj.CoreCompileInputs.cache
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar.csproj.CopyComplete
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar.exe
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar.pdb
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\Windows\Subdivision\SubdivisionAddWindow.baml
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\Windows\Subdivision\SubdivisionCompositeWindow.g.cs
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\Windows\Subdivision\SubdivisionAddWindow.g.cs
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\Windows\Subdivision\SubdivisionCompositeWindow.baml
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\Windows\Subdivision\SubdivisionLeafWindow.g.cs
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\Windows\Subdivision\SubdivisionLeafWindow.baml
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\Windows\Employee\EmployeeDeleteWindow.g.cs
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\Windows\Employee\EmployeeEditWindow.g.cs
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\Windows\Subdivision\SubdivisionEmptyWindow.g.cs
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\Windows\Employee\EmployeeDeleteWindow.baml
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\Windows\Employee\EmployeeEditWindow.baml
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\Windows\Subdivision\SubdivisionEmptyWindow.baml
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\UserControls\SubdivisionCompositeUserControl.g.cs
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\UserControls\SubdivisionCompositeUserControl.baml
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\UserControls\SubdivisionLeafUserControl.g.cs
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\UserControls\SubdivisionLeafUserControl.baml
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\obj\Debug\App.baml
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Programs\TestsLaserwar\TestLaserwar\TestLaserwar\bin\Debug\System.Windows.Interactivity.dll
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\bin\Debug\TestLaserwar.exe.config
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\bin\Debug\TestLaserwar.exe
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\bin\Debug\TestLaserwar.pdb
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\bin\Debug\BLL.dll
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\bin\Debug\EntityFramework.dll
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\bin\Debug\EntityFramework.SqlServer.dll
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\bin\Debug\System.Windows.Interactivity.dll
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\bin\Debug\DAL.dll
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\bin\Debug\BLL.pdb
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\bin\Debug\EntityFramework.xml
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\bin\Debug\EntityFramework.SqlServer.xml
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\bin\Debug\DAL.pdb
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\bin\Debug\DAL.dll.config
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar.csprojAssemblyReference.cache
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\Windows\Employee\EmployeeEditWindow.baml
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\Windows\Subdivision\SubdivisionAddWindow.baml
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\MainWindow.g.cs
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\UserControls\SubdivisionCompositeUserControl.g.cs
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\UserControls\SubdivisionLeafUserControl.g.cs
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\Windows\Employee\EmployeeDeleteWindow.g.cs
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\Windows\Employee\EmployeeEditWindow.g.cs
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\Windows\Subdivision\SubdivisionCompositeWindow.g.cs
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\Windows\Subdivision\SubdivisionAddWindow.g.cs
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\Windows\Subdivision\SubdivisionEmptyWindow.g.cs
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\Windows\Subdivision\SubdivisionLeafWindow.g.cs
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\App.g.cs
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar_MarkupCompile.cache
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar_MarkupCompile.lref
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\App.baml
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\MainWindow.baml
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\UserControls\SubdivisionCompositeUserControl.baml
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\UserControls\SubdivisionLeafUserControl.baml
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\Windows\Employee\EmployeeDeleteWindow.baml
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\Windows\Subdivision\SubdivisionCompositeWindow.baml
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\Windows\Subdivision\SubdivisionEmptyWindow.baml
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\Windows\Subdivision\SubdivisionLeafWindow.baml
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar.g.resources
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar.Properties.Resources.resources
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar.csproj.GenerateResource.cache
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar.csproj.CoreCompileInputs.cache
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar.csproj.CopyComplete
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar.exe
+D:\TestLaserwar (1)\TestLaserwar\TestLaserwar\obj\Debug\TestLaserwar.pdb

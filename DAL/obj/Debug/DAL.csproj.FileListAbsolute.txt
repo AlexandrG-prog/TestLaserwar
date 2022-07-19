@@ -1,0 +1,24 @@
+D:\Programs\TestsLaserwar\TestLaserwar\DAL\bin\Debug\DAL.dll.config
+D:\Programs\TestsLaserwar\TestLaserwar\DAL\bin\Debug\DAL.dll
+D:\Programs\TestsLaserwar\TestLaserwar\DAL\bin\Debug\DAL.pdb
+D:\Programs\TestsLaserwar\TestLaserwar\DAL\bin\Debug\EntityFramework.dll
+D:\Programs\TestsLaserwar\TestLaserwar\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programs\TestsLaserwar\TestLaserwar\DAL\bin\Debug\EntityFramework.xml
+D:\Programs\TestsLaserwar\TestLaserwar\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programs\TestsLaserwar\TestLaserwar\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Programs\TestsLaserwar\TestLaserwar\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Programs\TestsLaserwar\TestLaserwar\DAL\obj\Debug\DAL.dll
+D:\Programs\TestsLaserwar\TestLaserwar\DAL\obj\Debug\DAL.pdb
+D:\Programs\TestsLaserwar\TestLaserwar\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\TestLaserwar (1)\TestLaserwar\DAL\bin\Debug\DAL.dll.config
+D:\TestLaserwar (1)\TestLaserwar\DAL\bin\Debug\DAL.dll
+D:\TestLaserwar (1)\TestLaserwar\DAL\bin\Debug\DAL.pdb
+D:\TestLaserwar (1)\TestLaserwar\DAL\bin\Debug\EntityFramework.dll
+D:\TestLaserwar (1)\TestLaserwar\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\TestLaserwar (1)\TestLaserwar\DAL\bin\Debug\EntityFramework.xml
+D:\TestLaserwar (1)\TestLaserwar\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\TestLaserwar (1)\TestLaserwar\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\TestLaserwar (1)\TestLaserwar\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\TestLaserwar (1)\TestLaserwar\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\TestLaserwar (1)\TestLaserwar\DAL\obj\Debug\DAL.dll
+D:\TestLaserwar (1)\TestLaserwar\DAL\obj\Debug\DAL.pdb

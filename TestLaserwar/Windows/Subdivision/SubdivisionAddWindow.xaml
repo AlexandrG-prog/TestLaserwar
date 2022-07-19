@@ -1,0 +1,14 @@
+﻿<Window x:Class="TestLaserwar.Windows.Subdivision.SubdivisionAddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="" Height="221.033" Width="531.36">
+    <Grid>
+        <Label x:Name="SubdivisionNameLb" Content="Name" HorizontalAlignment="Left" Margin="22,52,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox Text="{Binding Path=Name, UpdateSourceTrigger=PropertyChanged}" x:Name="SubdivisionNameTb" HorizontalAlignment="Left" MaxLength="200" Height="23" Margin="104,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="376"/>
+        <Button Style="{StaticResource ButtonTemplate}" Command="{Binding Path=EditSubdivision}" HorizontalAlignment="Left" Margin="321,124,0,0" VerticalAlignment="Top" Width="75" Height="26">Save</Button>
+        <Button Style="{StaticResource ButtonTemplate}" HorizontalAlignment="Left" Margin="405,124,0,0" VerticalAlignment="Top" Width="75" Height="26" IsCancel="True">Cancel</Button>
+    </Grid>
+</Window>

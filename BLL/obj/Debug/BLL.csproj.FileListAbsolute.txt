@@ -1,0 +1,24 @@
+D:\Programs\TestsLaserwar\TestLaserwar\BLL\bin\Debug\BLL.dll
+D:\Programs\TestsLaserwar\TestLaserwar\BLL\bin\Debug\BLL.pdb
+D:\Programs\TestsLaserwar\TestLaserwar\BLL\bin\Debug\DAL.dll
+D:\Programs\TestsLaserwar\TestLaserwar\BLL\bin\Debug\EntityFramework.dll
+D:\Programs\TestsLaserwar\TestLaserwar\BLL\bin\Debug\DAL.pdb
+D:\Programs\TestsLaserwar\TestLaserwar\BLL\bin\Debug\DAL.dll.config
+D:\Programs\TestsLaserwar\TestLaserwar\BLL\bin\Debug\EntityFramework.xml
+D:\Programs\TestsLaserwar\TestLaserwar\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Programs\TestsLaserwar\TestLaserwar\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Programs\TestsLaserwar\TestLaserwar\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Programs\TestsLaserwar\TestLaserwar\BLL\obj\Debug\BLL.dll
+D:\Programs\TestsLaserwar\TestLaserwar\BLL\obj\Debug\BLL.pdb
+D:\TestLaserwar (1)\TestLaserwar\BLL\bin\Debug\BLL.dll
+D:\TestLaserwar (1)\TestLaserwar\BLL\bin\Debug\BLL.pdb
+D:\TestLaserwar (1)\TestLaserwar\BLL\bin\Debug\DAL.dll
+D:\TestLaserwar (1)\TestLaserwar\BLL\bin\Debug\EntityFramework.dll
+D:\TestLaserwar (1)\TestLaserwar\BLL\bin\Debug\DAL.pdb
+D:\TestLaserwar (1)\TestLaserwar\BLL\bin\Debug\DAL.dll.config
+D:\TestLaserwar (1)\TestLaserwar\BLL\bin\Debug\EntityFramework.xml
+D:\TestLaserwar (1)\TestLaserwar\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\TestLaserwar (1)\TestLaserwar\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\TestLaserwar (1)\TestLaserwar\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\TestLaserwar (1)\TestLaserwar\BLL\obj\Debug\BLL.dll
+D:\TestLaserwar (1)\TestLaserwar\BLL\obj\Debug\BLL.pdb
